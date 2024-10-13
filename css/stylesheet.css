@@ -1,0 +1,38 @@
+body{
+    background-color: yellow;
+    margin: 10px;
+    
+}
+
+.ijaz{
+    width: 300px;
+    height: 170px;
+    border: 3px solid white;
+    position: relative;
+    opacity: 1;
+    margin:200px;
+}
+.red{
+    height: 300px;
+    height: 50px;
+    background-color:red;
+}
+.blue{
+    width: 300px;
+    height: 70px;
+    background-color:rgb(1, 11, 85);
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.circle{
+    width: 70px;
+    height: 70px;
+    background-color: white;
+    border-radius: 50px;
+    border: 1px solid blue;
+}
+
+
+
